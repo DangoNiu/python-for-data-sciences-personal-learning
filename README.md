@@ -2,7 +2,7 @@
 <tr>
 <td width=15%><img src="./img/UGA.png"></img></td>
 <td><center><h1>Introduction to Python for Data Sciences</h1></center></td>
-<td width=15%><a href="https://www.univ-grenoble-alpes.fr/florian-vincent-1307498.kjsp" style="font-size: 16px; font-weight: bold">Florian Vincent</a> </td>
+<td width=15%><a href="https://tung-qle.github.io/" style="font-size: 16px; font-weight: bold">Quoc-Tung Le</a> </td>
 </tr>
 </table>
 <br/><br/> <center><h1> Outline </h1></center>
@@ -30,33 +30,24 @@
 ### [4.3 - Unsupervised Learning](4-3_Unsupervised_Learning.ipynb)
 ### [4.4 - Going Further](4-4_Going_Further.ipynb)
 
-## Projects
+## Chap. 5 - Deep Learning with Pytorch
+### [5.1 - Pytorch]()
+### [5.2 - Training]()
 
-### Math-leaning projects
+## Projects: Kaggle Challenges
 
-#### [Project 1](projects/Group_1/Project_1.ipynb): Optimization ↪
-#### **DO NOT PICK** ~~[Project 2](projects/Group_2/Project_2.ipynb): MCMC 🪙~~
-
-### Learning-leaning projects
-
-#### [Project 3](projects/Group_3/Project_3.ipynb): Text 📚
-#### [Project 4](projects/Group_4/Project_4.ipynb): Images 🖼
-
-### Data-leaning projects
-
-#### [Project 5](projects/Group_5/Project_5.ipynb): Scientific data :panda_face:
 
 ## Credits
 
-The course material is fully derived from a fork of Franck Iutzeler's class at UGA.
-He and I are both greatly indebted to many people and resources for this course:
+The course material is fully derived from a fork of Franck Iutzeler and Florian Vincent's classes at UGA.
+Three of us are greatly indebted to many people and resources for this course:
 * Alexandre Gramfort for his kind permission tu use some material from his course at Telecom Paris and his scikit-learn tutorial at SciPy 2016.
-* Adeline Leclerc Samson for giving me the opportunity of teaching this course.
+* Adeline Leclerc Samson for giving us the opportunity of teaching this course.
 * Anatoli Juditski for his advice and the conception of the Operation research course.
 * The [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas, see [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 * Many users feedbacks.
-* the various docs and examples on the websites of Numpy, Scipy, CvxOpt, Pandas, Scikit Learn, TensorFlow
+* the various docs and examples on the websites of Numpy, Scipy, CvxOpt, Pandas, Scikit Learn, Pytorch
     * [Numpy's quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
     * [Numpy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
     * [Scipy's quickstart tutorial](https://docs.scipy.org/doc/scipy-dev/user/quickstart.html)
-* Franck Iutzeler himself for passing all this content to me and his advices regarding the pedagogical aspects of the course.
+* Franck Iutzeler and Florian Vincent for passing all their contents to me and their advices regarding the pedagogical aspects of the course.
